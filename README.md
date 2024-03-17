@@ -8,7 +8,7 @@ El archivo que contiene el muestreo con nombre y fecha de registro
 
 - registro-dominios-09-08-2021.csv
 
-Datos organizados por año de registro y categorizados en colectivos, organizaciones sociales, medios y academicos.
+Datos organizados por año de registro y categorizados en colectivos, organizaciones sociales, medios y academico.
 
 - db-dominios-09-08-2021.csv
 
