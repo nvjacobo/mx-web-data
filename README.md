@@ -2,8 +2,6 @@
 
 Muestreo de 126 dominios de internet de acuerdo a la fecha de registro de los nombres de dominio que comprende el periodo 1989-2021.
 
-La base de datos está construida con los siguientes datos de entrada: fecha de registro de nombres de dominios, noticias en medios y periódicos, archive.org y RiskIQ. El muestro considera  cooperativas tecnológicas, colectivos, organizaciones dedicadas a la defensa y promoción de los derechos humanos, medios de comunicación independientes en México y centros educativos.
-
 La base de datos está construida con los siguientes datos de entrada: fecha de registro de nombres de dominios, noticias en medios y periódicos, archive.org y RiskIQ. El muestreo considera cooperativas tecnológicas, colectivos, organizaciones dedicadas a la defensa y promoción de los derechos humanos, medios de comunicación independientes en México y centros educativos.
 
 El archivo que contiene el muestreo
